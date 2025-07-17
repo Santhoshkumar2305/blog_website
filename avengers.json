@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "img": "https://image.tmdb.org/t/p/original/yaRps1bMQLyz54M8ib5YdA2a2RZ.jpg",
+    "title": "Avengers: Endgame",
+    "desc": "Epic culmination of the Infinity Saga featuring an ensemble cast and massive VFX battles.",
+    "year": 2019
+  },
+  {
+    "id": 2,
+    "img": "https://www.leisurebyte.com/wp-content/uploads/2022/12/Avatar-The-Way-of-Water-Review.jpg",
+    "title": "Avatar: The Way of Water",
+    "desc": "James Cameron’s sequel pushing underwater motion‑capture and sweeping visuals.",
+    "year": 2022
+  },
+  {
+    "id": 3,
+    "img": "https://tse1.mm.bing.net/th/id/OIP.XC3CPZkGNQYjpPnsAQYzoAHaGi?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "title": "Star Wars: The Force Awakens",
+    "desc": "Revitalized the Star Wars saga with new characters and nostalgic world‑building.",
+    "year": 2015
+  },
+  {
+    "id": 4,
+    "img": "https://images.hdqwalls.com/wallpapers/avengers-infinity-war-2018-poster-4k-rq.jpg",
+    "title": "Avengers: Infinity War",
+    "desc": "Thanos‑led MCU crossover with massive stakes and multiverse implications.",
+    "year": "2019"
+  },
+  {
+    "id": 5,
+    "img": "https://www.themoviedb.org/t/p/original/uzIGtyS6bbnJzGsPL93WCF1FWm8.jpg",
+    "title": "Pirates of the Caribbean: On Stranger Tides",
+    "desc": "Fourth instalment with Johnny Depp braving new supernatural seas.",
+    "year": 2011
+  },
+  {
+    "id": 6,
+    "img": "https://tse4.mm.bing.net/th/id/OIP.K7q50_ujfqe03FUsvQR-EgFNC7?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "title": "Avengers: Age of Ultron",
+    "desc": "Marvel’s follow‑up ensemble epic driven by artificial‑intelligence threats.",
+    "year": 2015
+  },
+  {
+    "id": 7,
+    "img": "https://4.bp.blogspot.com/-lB1ca3EqPa0/V9O-jxg0ijI/AAAAAAAALis/sX9YFfd0wvQBT75pkSnUBOmgNmCTs9O7gCLcB/s1600/avatar+movie+-+namafilm.jpg",
+    "title": "Avatar",
+    "desc": "James Cameron’s sci‑fi spectacle set on the alien world of Pandora.",
+    "year": 2009
+  },
+  {
+    "id": 8,
+    "img": "https://facts.net/wp-content/uploads/2023/06/37-facts-about-the-movie-titanic-1687656865.jpg",
+    "title": "Titanic",
+    "desc": "Historical romance‑disaster epic; one of the most‑expensive and highest‑grossing blockbusters.",
+    "year": 1997
+  },
+  {
+    "id": 9,
+    "img": "https://tse2.mm.bing.net/th/id/OIP.lMpBjV7yL2pStqDVGf08EQHaFj?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "title": "Star Wars: The Rise of Skywalker",
+    "desc": "Capstone to the sequel trilogy with epic confrontations and legacy reveals.",
+    "year": 2019
+  },
+  {
+    "id": 10,
+    "img": "https://image.tmdb.org/t/p/original/xYjJCd5PaY0wmbqL2gsVah8jZin.jpg",
+    "title": "Mission: Impossible – Fallout",
+    "desc": "High‑octane Tom Cruise espionage thriller with globe‑trotting stunts.",
+    "year": 2018
+  },
+  {
+    "id": 11,
+    "img": "https://tse3.mm.bing.net/th/id/OIP.F1anqhC4lrX3klxZvJJdPgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "title": "Justice League",
+    "desc": "DC's iconic heroes unite in this ensemble blockbuster.",
+    "year": 2017
+  },
+  {
+    "id": 12,
+    "img": "https://thefutureoftheforce.com/wp-content/uploads/2023/04/Indiana-Jones-and-the-Dial-of-Destiny-Header-2.jpg",
+    "title": "Indiana Jones and the Dial of Destiny",
+    "desc": "Latest adventure of the archeologist‑adventurer in a globe‑spanning quest.",
+    "year": 2023
+  },
+  {
+    "id": 13,
+    "img": "https://tse3.mm.bing.net/th/id/OIP.elahbObBIi72ivrL-t6NQAAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "title": "Fast X",
+    "desc": "The tenth chapter of the high‑speed action‑packed Fast & Furious franchise.",
+    "year": "2024"
+  }
+]
