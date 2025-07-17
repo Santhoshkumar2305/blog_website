@@ -9,7 +9,7 @@ const BlogUserDetails = () => {
   return (
     <div className="movie-container">
       <div className="movie-img">
-      <img src={movie.img} alt={movie.title} />
+      <img src={movie.img} alt={movie.title} className="movie-image"/>
       </div>
       <div className="movie-detail">
       <p><b>Movie:</b> {movie.title}</p>

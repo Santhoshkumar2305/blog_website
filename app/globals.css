@@ -320,7 +320,7 @@ a {
   background-color: #384764;
   color: white;
 }
-.movie-img > img{
+.movie-image{
   height: 45vh;
   width: 45vw;
   border-radius: 10px;
